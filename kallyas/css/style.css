@@ -951,6 +951,16 @@ body.lock {
     display: none;
     background: none;
   }
+
+  .footer::before {
+    background: none;
+    display: none;
+  }
+
+  .footer::after {
+    background: none;
+    display: none;
+  }
 }
 
 @media (max-width: 930px) {
@@ -1107,16 +1117,6 @@ body.lock {
 
   .footer {
     background: none;
-  }
-
-  .footer::before {
-    background: none;
-    display: none;
-  }
-
-  .footer::after {
-    background: none;
-    display: none;
   }
 }
 
