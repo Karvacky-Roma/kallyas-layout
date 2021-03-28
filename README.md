@@ -1,2 +1,2 @@
 # kallyas
-[demo](https://karvacky-roma.github.io/kallyas-layout/)
+[demo](https://karvacky-roma.github.io/kallyas-layout/kallyas)
